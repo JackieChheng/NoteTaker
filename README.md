@@ -1,2 +1,1 @@
-# NoteTaker
-Uses Express.js to take notes.
+# Note Taker Starter Code
